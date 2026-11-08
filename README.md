@@ -1,3 +1,4 @@
+
 # Sports Culture · Data Analytics
 
 <p align="center">
@@ -18,12 +19,6 @@ I'm a **communication and marketing professional** working at the intersection o
 ### Studying
 
 ![Python, Data Analysis, Analytics and AI Workflows](assets/studying.png)
-
-### Pinned
-
-![Four empty repository card layouts, reserved for future projects](assets/pinned-layout.png)
-
-*Visual placeholders only. Real pinned repositories are configured in GitHub's **Customize your pins** section.*
 
 ### Publications
 
