@@ -1,58 +1,46 @@
+# Sports Culture · Data Analytics
 
-# Olá, eu sou Derik Ferreira! 👋
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/about-derik-mobile-en.gif" />
+    <img src="assets/about-derik-en.gif" width="900" alt="Derik Ferreira — animated Windows XP Luna Blue editor" />
+  </picture>
+</p>
 
-**Comunicação e Marketing | Inteligência de Mídia | Análise de Dados**
+[Leia em português 🇧🇷](README.pt-BR.md)
 
-Profissional de Comunicação e Marketing, com experiência em **comunicação corporativa, produção editorial, marketing digital e análise de desempenho**.
+I'm a **communication and marketing professional** working at the intersection of **sports, visual storytelling, editorial research and data**. I work in institutional communications at **AVSI Brasil** and previously worked in marketing and communications at **Voltalia**. I'm currently studying **Data Analytics at SENAC**.
 
-Atualmente, complemento minha formação com estudos em **Análise de Dados no Senac RJ**, com interesse em conectar dados, comunicação e negócios.
+### Main skills
 
----
+![Canva, Adobe Express, CapCut, Airtable, Trello, SharePoint, Oracle ERP, Monday CRM and Lovable](assets/skills.png)
 
-## 💼 Experiência profissional
+### Studying
 
-- **AVSI Brasil:** comunicação institucional, produção de conteúdo, design e cobertura fotográfica.
-- **Voltalia:** comunicação corporativa, campanhas internas, eventos, inteligência de mídia e indicadores.
-- **Instituto Ludopédio:** pesquisa e produção de artigos autorais sobre futebol, cultura e negócios.
-- **Manto12FC:** empreendedorismo, growth, e-commerce e gestão de comunidades digitais.
+![Python, Data Analysis, Analytics and AI Workflows](assets/studying.png)
 
----
+### Pinned
 
-## 🛠️ Tecnologias e conhecimentos
+![Four empty repository card layouts, reserved for future projects](assets/pinned-layout.png)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Estatística Descritiva](https://img.shields.io/badge/Estat%C3%ADstica%20Descritiva-397478?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+*Visual placeholders only. Real pinned repositories are configured in GitHub's **Customize your pins** section.*
 
----
+### Publications
 
-## 📊 Áreas de interesse
+[<img src="assets/publication-ludopedio-compact.png" width="170" alt="Ludopédio">](https://ludopedio.org.br/autor/?p=derikferreira) [<img src="assets/publication-sbnation-compact.png" width="170" alt="SB Nation">](https://www.sbnation.com/)
 
-- **Análise de Dados:** Python, SQL, tratamento e exploração de dados.
-- **Estatística e Visualização:** estatística descritiva, gráficos e dashboards.
-- **Business Intelligence:** análise de KPIs e indicadores de desempenho.
-- **Comunicação e Marketing:** inteligência de mídia, conteúdo, growth e estratégias digitais.
+Selected published articles at **Ludopédio**:
 
----
+- [The evolution of Botafogo's shirt: from the original white to the iconic stripes](https://ludopedio.org.br/arquibancada/a-evolucao-da-camisa-do-botafogo-do-branco-original-ao-manto-glorioso/) — August 2026.
+- [Tévez at Corinthians: the legacy of the Apache at Parque São Jorge](https://ludopedio.org.br/arquibancada/tevez-no-corinthians-o-legado-do-apache-no-parque-sao-jorge/) — May 2026.
 
-## 📂 Projetos
+### Connect with me!
 
-- **[Portfólio profissional](https://derik-ferreira-portfolio.lovable.app/)** — Projetos de comunicação, marketing e produção editorial.
-- **[Instituto Ludopédio](https://ludopedio.org.br/autor/?p=derikferreira)** — Artigos autorais sobre história, cultura e negócios do futebol.
-- **Manto12FC** — Projeto de conteúdo e e-commerce esportivo com mais de **100 mil seguidores**, **1 milhão de curtidas** e **500 vendas**.
+[<img src="assets/social-linkedin.png" width="36" alt="LinkedIn">](https://www.linkedin.com/in/derikferreira/) [<img src="assets/social-instagram.png" width="36" alt="Instagram">](https://www.instagram.com/derikferreiraa_/) [<img src="assets/social-x.png" width="36" alt="X">](https://x.com/derikferreiraa_) [<img src="assets/social-email.png" width="36" alt="Email">](mailto:derikferreirawork@gmail.com) &nbsp; [<img src="assets/portfolio-button.png" width="132" alt="Open my interactive portfolio">](https://derik-ferreira-portfolio.lovable.app/)
 
----
+### Employer?
 
-## 🚀 Neste GitHub
+> [!IMPORTANT]
+> Interested in **communications, sports marketing, content or data-informed creative work**? [Get in touch](mailto:derikferreirawork@gmail.com) or [request my latest résumé](mailto:derikferreirawork@gmail.com?subject=CV%20request%20-%20Derik%20Ferreira).
 
-Repositórios dedicados aos meus **estudos e projetos em Análise de Dados**, incluindo exercícios de Python, SQL, estatística e visualização de informações.
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derikferreira/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://derik-ferreira-portfolio.lovable.app/)
+![Decorative Windows XP taskbar with a Start button and Derik Ferreira tab](assets/xp-taskbar.png)
