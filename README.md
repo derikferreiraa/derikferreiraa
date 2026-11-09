@@ -1,5 +1,6 @@
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=950&color=171717&center=false&vCenter=true&width=700&height=65&lines=Hello+There%21;I%27m+Derik+Ferreira;Communication+%26+Marketing;Sports+Culture;Data+Analytics" alt="Hello There! I'm Derik Ferreira — Communication & Marketing, Sports Culture, Data Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=28&amp;duration=2500&amp;pause=950&amp;color=171717&amp;center=false&amp;vCenter=true&amp;width=700&amp;height=65&amp;lines=Hello+There%21;I%27m+Derik+Ferreira;Communication+%26+Marketing;Sports+Culture;Data+Analytics" alt="Hello There! I'm Derik Ferreira — Communication &amp; Marketing, Sports Culture, Data Analytics" />
 </p>
 
 <p align="center">
@@ -36,6 +37,10 @@ Selected published articles at **Ludopédio**:
 - [The evolution of Botafogo's shirt: from the original white to the iconic stripes](https://ludopedio.org.br/arquibancada/a-evolucao-da-camisa-do-botafogo-do-branco-original-ao-manto-glorioso/) — August 2026.
 - [Tévez at Corinthians: the legacy of the Apache at Parque São Jorge](https://ludopedio.org.br/arquibancada/tevez-no-corinthians-o-legado-do-apache-no-parque-sao-jorge/) — May 2026.
 
+Published at **SB Nation**:
+
+- [Cristiano Ronaldo's Portugal Story Ends. His Influence Doesn't.](https://www.sbnation.com/soccer/post/5hljJ8ZOsjfY) — November 2026.
+
 ### Connect with me!
 
 <a href="https://www.linkedin.com/in/derikferreira/"><img src="assets/social-linkedin.png" width="40" alt="LinkedIn" /></a> <a href="https://www.instagram.com/derikferreiraa_/"><img src="assets/social-instagram.png" width="40" alt="Instagram" /></a> <a href="https://x.com/derikferreiraa_"><img src="assets/social-x.png" width="40" alt="X" /></a> &nbsp; <a href="https://derik-ferreira-portfolio.lovable.app/"><img src="assets/portfolio-button.png" width="114" alt="Interactive portfolio" /></a>
@@ -45,4 +50,6 @@ Selected published articles at **Ludopédio**:
 > [!IMPORTANT]
 > Interested in **communications, sports marketing, content or data-informed creative work**? [Get in touch](mailto:derikferreirawork@gmail.com) or [request my latest résumé](mailto:derikferreirawork@gmail.com?subject=CV%20request%20-%20Derik%20Ferreira).
 
-<p align="center"><img src="assets/xp-taskbar.png" width="100%" alt="Decorative Windows XP taskbar with Derik Ferreira" /></p>
+<p align="center">
+  <img src="assets/xp-taskbar.png?v=24" width="100%" alt="Decorative Windows XP taskbar with Derik Ferreira folder open" />
+</p>
