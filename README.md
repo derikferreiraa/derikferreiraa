@@ -1,13 +1,11 @@
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=28&amp;duration=2500&amp;pause=950&amp;color=171717&amp;center=false&amp;vCenter=true&amp;width=700&amp;height=65&amp;lines=Hello+There%21;I%27m+Derik+Ferreira;Communication+%26+Marketing;Sports+Culture;Data+Analytics" alt="Hello There! — Derik Ferreira" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=950&color=171717&center=false&vCenter=true&width=700&height=65&lines=Hello+There%21;I%27m+Derik+Ferreira;Communication+%26+Marketing;Sports+Culture;Data+Analytics" alt="Hello There! I'm Derik Ferreira — Communication & Marketing, Sports Culture, Data Analytics" />
 </p>
-
 
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/about-derik-mobile-en.gif" />
-    <img src="assets/about-derik-en.gif" width="900" alt="Derik Ferreira — animated Windows XP Luna Blue editor" />
+    <img src="assets/about-derik-en.gif" width="900" alt="Derik Ferreira — animated Windows XP editor" />
   </picture>
 </p>
 
@@ -17,15 +15,21 @@ I'm a **communication and marketing professional** working at the intersection o
 
 ### Main skills
 
-![Canva, Adobe Express, CapCut, Airtable, Trello, SharePoint, Oracle ERP, Monday CRM and Lovable](assets/skills.png)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/skills-mobile.png" />
+  <img src="assets/skills.png" width="820" alt="Canva, Adobe Express, Illustrator, Photoshop, Lightroom, Figma, CapCut, PowerPoint, Lovable, Claude, Yoast SEO, Shopify, Trello, SharePoint, Monday CRM, Oracle ERP, Excel and Power BI" />
+</picture>
 
 ### Studying
 
-<img src="assets/studying.png?version=10" width="320" alt="Python, Data Analysis, Analytics and AI Workflows" />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/studying-mobile.png" />
+  <img src="assets/studying.png" width="540" alt="Python, Data Analysis, Analytics, AI Workflows, Pandas and Matplotlib" />
+</picture>
 
 ### Publications
 
-[<img src="assets/publication-ludopedio-compact.png" width="170" alt="Ludopédio">](https://ludopedio.org.br/autor/?p=derikferreira) [<img src="assets/publication-sbnation-compact.png" width="170" alt="SB Nation">](https://www.sbnation.com/)
+<a href="https://ludopedio.org.br/autor/?p=derikferreira"><img src="assets/publication-ludopedio-compact.png" width="170" alt="Derik Ferreira on Ludopédio" /></a> <a href="https://www.sbnation.com/users/iNVWg5lBLj/Derik%20Ferreira"><img src="assets/publication-sbnation-compact.png" width="170" alt="Derik Ferreira on SB Nation" /></a>
 
 Selected published articles at **Ludopédio**:
 
@@ -34,11 +38,11 @@ Selected published articles at **Ludopédio**:
 
 ### Connect with me!
 
-[<img src="assets/social-linkedin.png" width="36" alt="LinkedIn">](https://www.linkedin.com/in/derikferreira/) [<img src="assets/social-instagram.png" width="36" alt="Instagram">](https://www.instagram.com/derikferreiraa_/) [<img src="assets/social-x.png" width="36" alt="X">](https://x.com/derikferreiraa_) [<img src="assets/social-email.png" width="36" alt="Email">](mailto:derikferreirawork@gmail.com) &nbsp; [<img src="assets/portfolio-button.png" width="132" alt="Open my interactive portfolio">](https://derik-ferreira-portfolio.lovable.app/)
+<a href="https://www.linkedin.com/in/derikferreira/"><img src="assets/social-linkedin.png" width="40" alt="LinkedIn" /></a> <a href="https://www.instagram.com/derikferreiraa_/"><img src="assets/social-instagram.png" width="40" alt="Instagram" /></a> <a href="https://x.com/derikferreiraa_"><img src="assets/social-x.png" width="40" alt="X" /></a> &nbsp; <a href="https://derik-ferreira-portfolio.lovable.app/"><img src="assets/portfolio-button.png" width="114" alt="Interactive portfolio" /></a>
 
 ### Employer?
 
 > [!IMPORTANT]
 > Interested in **communications, sports marketing, content or data-informed creative work**? [Get in touch](mailto:derikferreirawork@gmail.com) or [request my latest résumé](mailto:derikferreirawork@gmail.com?subject=CV%20request%20-%20Derik%20Ferreira).
 
-![Decorative Windows XP taskbar with a Start button and Derik Ferreira tab](assets/xp-taskbar.png)
+<p align="center"><img src="assets/xp-taskbar.png" width="100%" alt="Decorative Windows XP taskbar with Derik Ferreira" /></p>
