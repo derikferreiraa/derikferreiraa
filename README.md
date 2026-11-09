@@ -1,5 +1,8 @@
 
-# Sports Culture · Data Analytics
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=28&amp;duration=2500&amp;pause=950&amp;color=171717&amp;center=false&amp;vCenter=true&amp;width=700&amp;height=65&amp;lines=Hello+There%21;I%27m+Derik+Ferreira;Communication+%26+Marketing;Sports+Culture;Data+Analytics" alt="Hello There! — Derik Ferreira" />
+</p>
+
 
 <p align="center">
   <picture>
@@ -18,7 +21,7 @@ I'm a **communication and marketing professional** working at the intersection o
 
 ### Studying
 
-![Python, Data Analysis, Analytics and AI Workflows](assets/studying.png)
+<img src="assets/studying.png?version=10" width="320" alt="Python, Data Analysis, Analytics and AI Workflows" />
 
 ### Publications
 
