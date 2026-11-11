@@ -1,6 +1,5 @@
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=28&amp;duration=2500&amp;pause=950&amp;color=171717&amp;center=false&amp;vCenter=true&amp;width=700&amp;height=65&amp;lines=Hello+There%21;I%27m+Derik+Ferreira;Communication+%26+Marketing;Sports+Culture;Data+Analytics" alt="Hello There! I'm Derik Ferreira — Communication &amp; Marketing, Sports Culture, Data Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=950&color=171717&center=false&vCenter=true&width=700&height=65&lines=Hello+There%21;I%27m+Derik+Ferreira;Communication+%26+Marketing;Sports+Culture;Data+Analytics" alt="Hello There! I'm Derik Ferreira — Communication & Marketing, Sports Culture, Data Analytics" />
 </p>
 
 <p align="center">
@@ -34,12 +33,13 @@ I'm a **communication and marketing professional** working at the intersection o
 
 Selected published articles at **Ludopédio**:
 
+- [The LeBron Effect: How the Star’s Arrival Could Impact Philadelphia’s Economy](https://ludopedio.org.br/arquibancada/o-efeito-lebron-como-a-chegada-do-astro-pode-movimentar-a-economia-da-filadelfia/) — November 2026.
 - [The evolution of Botafogo's shirt: from the original white to the iconic stripes](https://ludopedio.org.br/arquibancada/a-evolucao-da-camisa-do-botafogo-do-branco-original-ao-manto-glorioso/) — August 2026.
 - [Tévez at Corinthians: the legacy of the Apache at Parque São Jorge](https://ludopedio.org.br/arquibancada/tevez-no-corinthians-o-legado-do-apache-no-parque-sao-jorge/) — May 2026.
 
 Published at **SB Nation**:
 
-- [Cristiano Ronaldo's Portugal Story Ends. His Influence Doesn't.](https://www.sbnation.com/soccer/post/5hljJ8ZOsjfY) — November 2026.
+- [Cristiano Ronaldo’s Portugal Story Ends. His Influence Doesn’t.](https://www.sbnation.com/soccer/post/5hljJ8ZOsjfY) — November 2026.
 
 ### Connect with me!
 
@@ -50,6 +50,4 @@ Published at **SB Nation**:
 > [!IMPORTANT]
 > Interested in **communications, sports marketing, content or data-informed creative work**? [Get in touch](mailto:derikferreirawork@gmail.com) or [request my latest résumé](mailto:derikferreirawork@gmail.com?subject=CV%20request%20-%20Derik%20Ferreira).
 
-<p align="center">
-  <img src="assets/xp-taskbar.png?v=24" width="100%" alt="Decorative Windows XP taskbar with Derik Ferreira folder open" />
-</p>
+<p align="center"><img src="assets/xp-taskbar.png?v=24" width="100%" alt="Decorative Windows XP taskbar with Derik Ferreira" /></p>
